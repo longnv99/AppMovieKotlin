@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppMovie</string>
+    <string name="home">Upcoming</string>
+    <string name="top_rate">Top Rate</string>
+    <string name="popular">Popular</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="date_upcoming">Release date : </string>
+    <string name="vote">Vote : </string>
+    <string name="video_id">qzcGfN9S_QY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
